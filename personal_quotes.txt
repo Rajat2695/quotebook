@@ -1,2 +1,4 @@
 new quoted in personal_quote.txt
 2nd choice
+
+3d cgoice
